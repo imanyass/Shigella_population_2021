@@ -1,6 +1,8 @@
 #!/bin/bash
 
-module load blast+ #version 
+module load blast+ 
+#version blastn: 2.10.1+
+#Package: blast 2.10.1
 
 usage() {
         echo
